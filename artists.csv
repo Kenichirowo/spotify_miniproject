@@ -1,0 +1,755 @@
+artist_id;artist_name;song_count;most_common_genre;max_popularity;min_popularity;average_popularity;first_time_topsong
+0;*NSYNC;3;pop;65;50;58.333333333333336;2000
+1;112;2;hip hop;63;57;60.0;2001
+2;2 Chainz;2;hip hop;71;69;70.0;2013
+3;21 Savage;2;hip hop;78;74;76.0;2017
+4;2Pac;2;hip hop;68;57;62.5;2001
+5;3 Doors Down;5;pop;78;52;65.4;2000
+6;3LW;1;pop;56;56;56.0;2000
+7;3OH!3;2;hip hop;70;62;66.0;2008
+8;5 Seconds of Summer;2;pop;74;69;71.5;2014
+9;50 Cent;9;hip hop;81;57;71.11111111111111;2003
+10;6ix9ine;1;hip hop;63;63;63.0;2018
+11;99 Souls;1;Dance/Electronic;55;55;55.0;2016
+12;A Boogie Wit da Hoodie;2;hip hop;75;73;74.0;2018
+13;A$AP Ferg;1;hip hop;74;74;74.0;2017
+14;A$AP Rocky;1;hip hop;76;76;76.0;2013
+15;A.R. Rahman;1;other;65;65;65.0;2009
+16;A1;1;pop;53;53;53.0;2001
+17;AJ Tracey;1;hip hop;69;69;69.0;2019
+18;Aaliyah;1;hip hop;53;53;53.0;2002
+19;Adam Lambert;1;pop;57;57;57.0;2009
+20;Adele;1;pop;74;74;74.0;2012
+21;Afroman;1;hip hop;68;68;68.0;2001
+22;Agnes;1;pop;65;65;65.0;2009
+23;Akon;5;pop;69;52;59.4;2006
+24;Alan Walker;1;Dance/Electronic;78;78;78.0;2018
+25;Alanis Morissette;1;pop;57;57;57.0;2002
+26;Alec Benjamin;1;other;82;82;82.0;2018
+27;Alesha Dixon;1;pop;51;51;51.0;2008
+28;Alessia Cara;2;pop;76;66;71.0;2016
+29;Alesso;1;pop;52;52;52.0;2014
+30;Alex & Sierra;1;pop;75;75;75.0;2014
+31;Alex Clare;1;rock;60;60;60.0;2011
+32;Alex Gaudino;1;Dance/Electronic;73;73;73.0;2007
+33;Alexandra Burke;2;pop;63;57;60.0;2009
+34;Alice Deejay;1;pop;73;73;73.0;2000
+35;Alicia Keys;6;pop;77;50;61.0;2001
+36;Alien Ant Farm;1;rock;75;75;75.0;2001
+37;All Saints;1;pop;62;62;62.0;2000
+38;All Time Low;1;rock;76;76;76.0;2007
+39;Alok;1;pop;51;51;51.0;2016
+40;Amerie;1;hip hop;52;52;52.0;2008
+41;Amy Winehouse;3;R&B;76;63;70.0;2006
+42;Anastacia;3;pop;65;56;61.666666666666664;1999
+43;Anne-Marie;3;pop;80;57;64.66666666666667;2016
+44;Anuel AA;2;latin;76;75;75.5;2019
+45;Arctic Monkeys;6;rock;96;67;79.0;2006
+46;Ariana Grande;10;pop;83;65;75.6;2013
+47;Armin van Buuren;1;pop;66;66;66.0;2013
+48;Ashanti;6;hip hop;70;50;59.5;2002
+49;Asher Roth;1;hip hop;62;62;62.0;2009
+50;Ashlee Simpson;1;pop;56;56;56.0;2004
+51;Ashley O;1;other;57;57;57.0;2019
+52;Atomic Kitten;3;pop;66;58;63.0;2001
+53;Audioslave;1;rock;75;75;75.0;2002
+54;Avant;2;pop;56;55;55.5;2000
+55;Avicii;8;pop;85;53;70.375;2011
+56;Avril Lavigne;9;pop;78;58;69.66666666666667;2002
+57;Ayo & Teo;1;hip hop;69;69;69.0;2017
+58;B Young;1;hip hop;60;60;60.0;2018
+59;B.o.B;3;hip hop;74;65;71.0;2010
+60;B2K;1;hip hop;62;62;62.0;2003
+61;Baauer;1;Dance/Electronic;57;57;57.0;2013
+62;Baby Bash;2;other;73;73;73.0;2003
+63;Baby Boy Da Prince;1;hip hop;59;59;59.0;2006
+64;Backstreet Boys;3;pop;70;63;67.0;1999
+65;Bad Bunny;4;latin;89;77;82.75;2018
+66;Bad Meets Evil;1;hip hop;68;68;68.0;2011
+67;Baha Men;1;R&B;65;65;65.0;2000
+68;Banx & Ranx;1;Dance/Electronic;56;56;56.0;2018
+69;Basshunter;2;pop;65;63;64.0;2008
+70;Bastille;3;pop;74;61;66.66666666666667;2013
+71;Bazzi;1;pop;75;75;75.0;2018
+72;Becky G;2;pop;78;69;73.5;2014
+73;Benny Benassi;1;pop;66;66;66.0;2003
+74;Beyoncé;14;pop;76;57;66.92857142857143;2003
+75;Big Sean;2;hip hop;75;71;73.0;2015
+76;Big Shaq;1;pop;62;62;62.0;2017
+77;Big Tymers;1;hip hop;64;64;64.0;2002
+78;Billie Eilish;5;pop;86;75;82.8;2017
+79;Birdy;1;pop;68;68;68.0;2015
+80;Bizarrap;2;pop;88;85;86.5;2023
+81;Black Eyed Peas;13;hip hop;80;53;66.76923076923077;2003
+82;Blake Shelton;2;country;56;50;53.0;2011
+83;Blanco Brown;1;other;69;69;69.0;2019
+84;BlocBoy JB;1;hip hop;73;73;73.0;2018
+85;Blu Cantrell;1;pop;71;71;71.0;2001
+86;Blue;4;pop;63;57;59.5;2001
+87;Bob Sinclar;1;pop;69;69;69.0;2006
+88;Bobby Shmurda;1;hip hop;73;73;73.0;2014
+89;Bobby V.;1;hip hop;65;65;65.0;2005
+90;Bodyrockers;1;rock;54;54;54.0;2005
+91;Bomfunk MC's;1;pop;55;55;55.0;2000
+92;Bon Jovi;1;rock;78;78;78.0;2000
+93;Bone Thugs-N-Harmony;1;hip hop;61;61;61.0;2007
+94;Bow Wow;3;hip hop;66;57;61.666666666666664;2005
+95;Boys Like Girls;2;pop;64;62;63.0;2007
+96;Brandy;2;hip hop;52;50;51.0;2002
+97;Bridgit Mendler;1;pop;72;72;72.0;2012
+98;Britney Spears;18;pop;81;53;66.55555555555556;1999
+99;Bruno Mars;12;pop;85;74;78.16666666666667;2010
+100;Bryson Tiller;3;hip hop;78;76;77.33333333333333;2015
+101;Bubba Sparxxx;1;other;62;62;62.0;2005
+102;Burak Yeter;1;Dance/Electronic;72;72;72.0;2016
+103;Busta Rhymes;4;hip hop;68;55;63.0;2001
+104;Cali Swag District;1;hip hop;66;66;66.0;2011
+105;Calvin Harris;19;other;81;55;70.26315789473684;2007
+106;Camila Cabello;2;pop;74;65;69.5;2018
+107;Cam’ron;1;hip hop;67;67;67.0;2002
+108;Cardi B;5;hip hop;79;59;71.2;2017
+109;Carl Thomas;1;pop;52;52;52.0;2000
+110;Carly Rae Jepsen;1;pop;78;78;78.0;2012
+111;Carrie Underwood;2;pop;76;63;69.5;2005
+112;Cascada;1;other;63;63;63.0;2009
+113;Case;1;hip hop;55;55;55.0;2001
+114;Cashmere Cat;1;pop;56;56;56.0;2018
+115;Cassie;1;pop;73;73;73.0;2006
+116;Chad Kroeger;1;other;66;66;66.0;2003
+117;Chamillionaire;1;hip hop;71;71;71.0;2005
+118;Charlene Soraia;1;pop;60;60;60.0;2011
+119;Charlie Puth;5;pop;79;62;68.8;2016
+120;Chase & Status;1;Dance/Electronic;60;60;60.0;2011
+121;Cheat Codes;1;pop;68;68;68.0;2017
+122;Cher Lloyd;1;pop;67;67;67.0;2011
+123;Cherish;1;hip hop;65;65;65.0;2006
+124;Cheryl;1;pop;65;65;65.0;2009
+125;Chingy;4;hip hop;69;61;63.25;2003
+126;Chord Overstreet;1;pop;80;80;80.0;2017
+127;Chris Brown;16;hip hop;74;53;67.5;2005
+128;Christina Aguilera;8;pop;68;61;64.75;1999
+129;Christina Milian;2;hip hop;60;60;60.0;2001
+130;Christina Perri;3;pop;72;59;67.0;2011
+131;Ciara;8;pop;68;52;60.625;2004
+132;Clean Bandit;4;pop;75;60;69.5;2014
+133;Cobra Starship;2;pop;70;65;67.5;2009
+134;Colby O'Donis;1;hip hop;61;61;61.0;2008
+135;Coldplay;13;pop;82;63;75.3076923076923;2002
+136;Counting Crows;1;pop;50;50;50.0;2003
+137;Craig David;5;hip hop;70;56;61.0;2000
+138;Crazy Frog;1;pop;67;67;67.0;2005
+139;Crazy Town;1;rock;71;71;71.0;1999
+140;Creed;3;pop;69;64;67.33333333333333;1999
+141;Céline Dion;2;pop;64;59;61.5;1999
+142;D12;3;hip hop;73;57;66.0;2001
+143;D4L;2;hip hop;63;63;63.0;2005
+144;DEV;1;pop;52;52;52.0;2012
+145;DJ Casper;1;other;51;51;51.0;2004
+146;DJ Fresh;3;pop;63;55;58.666666666666664;2010
+147;DJ Khaled;4;hip hop;72;51;65.0;2010
+148;DJ Pied Piper & The Masters Of Ceremonies;1;Dance/Electronic;54;54;54.0;2001
+149;DJ Sammy;1;pop;63;63;63.0;2002
+150;DJ Snake;6;other;81;69;72.5;2013
+151;DJ Ötzi;1;pop;58;58;58.0;2010
+152;DMX;2;hip hop;71;70;70.5;1999
+153;DNCE;1;pop;79;79;79.0;2016
+154;Da Brat;1;hip hop;53;53;53.0;2000
+155;DaBaby;1;hip hop;72;72;72.0;2019
+156;Daddy Yankee;2;latin;79;71;75.0;2018
+157;Daft Punk;3;hip hop;83;69;76.0;2001
+158;Daniel Bedingfield;3;pop;58;56;57.333333333333336;2002
+159;Daniel Powter;1;pop;74;74;74.0;2005
+160;Danity Kane;1;pop;57;57;57.0;2008
+161;Darude;1;pop;69;69;69.0;2001
+162;Dave;1;hip hop;78;78;78.0;2019
+163;David Archuleta;1;pop;67;67;67.0;2008
+164;David Banner;1;hip hop;52;52;52.0;2005
+165;David Guetta;17;other;92;50;69.70588235294117;2010
+166;David Kushner;1;other;94;94;94.0;2023
+167;Dean Lewis;1;pop;79;79;79.0;2018
+168;Delta Goodrem;2;pop;54;54;54.0;2003
+169;Dem Franchize Boyz;1;hip hop;60;60;60.0;2006
+170;Demi Lovato;3;pop;79;64;71.33333333333333;2011
+171;Dennis Lloyd;1;pop;74;74;74.0;2017
+172;Deorro;1;pop;66;66;66.0;2015
+173;Desiigner;2;hip hop;70;67;68.5;2016
+174;Destiny's Child;10;pop;75;55;64.6;1999
+175;Diddy;3;hip hop;69;55;62.333333333333336;2004
+176;Diddy - Dirty Money;1;hip hop;69;69;69.0;2010
+177;Dido;1;pop;73;73;73.0;1999
+178;Disclosure;3;pop;74;54;67.33333333333333;2013
+179;Disturbing Tha Peace;1;hip hop;59;59;59.0;2002
+180;Dizzee Rascal;2;other;68;60;64.0;2011
+181;Doja Cat;2;pop;93;57;75.0;2019
+182;Dominic Fike;1;pop;78;78;78.0;2018
+183;Donell Jones;2;pop;63;57;60.0;1999
+184;Dr. Dre;3;hip hop;82;71;77.33333333333333;1999
+185;Drake;20;hip hop;84;54;71.2;2009
+186;Dua Lipa;4;pop;79;61;70.75;2017
+187;Duffy;1;pop;69;69;69.0;2008
+188;Duke Dumont;1;pop;67;67;67.0;2014
+189;Dynoro;1;pop;78;78;78.0;2018
+190;E-40;1;hip hop;63;63;63.0;2006
+191;EO;1;other;67;67;67.0;2018
+192;Eamon;1;other;64;64;64.0;2004
+193;Echosmith;1;pop;71;71;71.0;2013
+194;Ed Sheeran;9;pop;85;63;72.77777777777777;2013
+195;Edward Maya;2;pop;66;66;66.0;2010
+196;Eiffel 65;1;pop;56;56;56.0;1999
+197;Ella Henderson;1;pop;63;63;63.0;2014
+198;Ella Mai;1;hip hop;72;72;72.0;2018
+199;Ellie Goulding;5;pop;78;54;67.0;2010
+200;Elliott Yamin;1;other;58;58;58.0;2007
+201;Elvis Presley;1;rock;60;60;60.0;2002
+202;Emeli Sandé;1;pop;65;65;65.0;2012
+203;Eminem;21;hip hop;91;52;74.38095238095238;2000
+204;Emma Bunton;1;pop;54;54;54.0;2001
+205;Empire of the Sun;1;other;77;77;77.0;2008
+206;Enrique Iglesias;7;pop;70;54;62.857142857142854;1999
+207;Enya;1;Folk/Acoustic;69;69;69.0;2000
+208;Eric Prydz;2;pop;72;65;68.5;2004
+209;Erick Sermon;1;hip hop;57;57;57.0;2001
+210;Erykah Badu;1;R&B;54;54;54.0;2000
+211;Eslabon Armado;1;sad sierreño;86;86;86.0;2023
+212;Estelle;1;R&B;78;78;78.0;2008
+213;Evanescence;3;other;79;65;72.0;2003
+214;Eve;2;hip hop;73;58;65.5;2001
+215;Example;1;pop;63;63;63.0;2010
+216;FIFTY FIFTY;1;other;75;75;75.0;2023
+217;FINNEAS;1;other;71;71;71.0;2018
+218;Fabolous;4;hip hop;67;59;62.25;2003
+219;Faith Evans;1;hip hop;53;53;53.0;2001
+220;Faith Hill;2;pop;66;60;63.0;1999
+221;Faithless;1;pop;53;53;53.0;2015
+222;Fall Out Boy;5;rock;80;68;73.8;2005
+223;Far East Movement;2;hip hop;73;61;67.0;2010
+224;Fat Joe;2;hip hop;73;59;66.0;2001
+225;Feid;1;pop;87;87;87.0;2023
+226;Felix Jaehn;1;other;72;72;72.0;2018
+227;Fergie;5;pop;76;57;63.6;2006
+228;Fetty Wap;3;hip hop;74;55;65.66666666666667;2015
+229;Fifth Harmony;3;pop;75;62;70.0;2015
+230;Finger Eleven;2;rock;73;73;73.0;2007
+231;Fitz and The Tantrums;1;pop;64;64;64.0;2016
+232;Flipp Dinero;1;hip hop;69;69;69.0;2019
+233;Flo Rida;10;hip hop;80;60;73.9;2008
+234;Floetry;1;hip hop;57;57;57.0;2002
+235;Florence + The Machine;1;other;68;68;68.0;2011
+236;Florida Georgia Line;1;country;57;57;57.0;2012
+237;Flume;1;Dance/Electronic;53;53;53.0;2016
+238;Foo Fighters;2;rock;78;76;77.0;2005
+239;Fort Minor;1;hip hop;73;73;73.0;2005
+240;Foster The People;1;pop;82;82;82.0;2011
+241;Fragma;1;pop;50;50;50.0;2001
+242;Frank Ocean;2;hip hop;79;64;71.5;2012
+243;Franz Ferdinand;2;rock;77;61;69.0;2004
+244;French Montana;1;hip hop;82;82;82.0;2017
+245;Future;2;hip hop;79;74;76.5;2016
+246;G-Eazy;3;hip hop;77;63;71.66666666666667;2015
+247;G-Unit;1;hip hop;61;61;61.0;2003
+248;G.R.L.;1;pop;64;64;64.0;2014
+249;Gabriella Cilmi;1;R&B;56;56;56.0;2008
+250;Gabrielle;3;pop;69;60;63.0;2001
+251;Galantis;2;pop;74;67;70.5;2015
+252;Gareth Gates;1;pop;53;53;53.0;2003
+253;Garrett Nash;1;hip hop;77;77;77.0;2016
+254;Gary Jules;1;pop;65;65;65.0;2001
+255;Gavin DeGraw;1;pop;51;51;51.0;2008
+256;George Michael;1;other;57;57;57.0;2004
+257;Geri Halliwell;1;pop;62;62;62.0;2001
+258;Gesaffelstein;1;Dance/Electronic;84;84;84.0;2019
+259;Gigi D'Agostino;1;pop;64;64;64.0;1999
+260;Ginuwine;2;hip hop;65;59;62.0;2001
+261;Girls Aloud;3;pop;60;58;59.0;2003
+262;Gnarls Barkley;1;R&B;74;74;74.0;2006
+263;Good Charlotte;1;rock;68;68;68.0;2002
+264;Gorgon City;1;pop;61;61;61.0;2014
+265;Gorillaz;3;hip hop;82;73;76.33333333333333;2001
+266;Gotye;1;other;57;57;57.0;2011
+267;Green Day;3;rock;77;72;74.0;2004
+268;Grouplove;1;other;79;79;79.0;2011
+269;Grupo Frontera;1;other;85;85;85.0;2023
+270;Gwen Stefani;5;pop;71;59;65.4;2004
+271;Gym Class Heroes;4;hip hop;81;54;63.75;2007
+272;"H ""two"" O";1;Dance/Electronic;55;55;55.0;2008
+273;Halsey;2;pop;77;72;74.5;2017
+274;Harry Styles;1;pop;95;95;95.0;2023
+275;Hilltop Hoods;1;hip hop;63;63;63.0;2016
+276;Holly Valance;1;pop;54;54;54.0;2002
+277;Hoobastank;1;pop;79;79;79.0;2003
+278;Hot Chelle Rae;1;hip hop;73;73;73.0;2011
+279;Houston;1;hip hop;59;59;59.0;2004
+280;Hozier;1;Folk/Acoustic;81;81;81.0;2014
+281;Huey;1;hip hop;52;52;52.0;2006
+282;Hugh Jackman;1;other;72;72;72.0;2017
+283;Icona Pop;2;pop;68;51;59.5;2012
+284;Iggy Azalea;2;hip hop;69;67;68.0;2014
+285;Illy;1;other;51;51;51.0;2016
+286;Imagine Dragons;4;rock;81;77;79.5;2012
+287;Infernal;1;pop;57;57;57.0;2004
+288;Iyaz;1;hip hop;75;75;75.0;2009
+289;J Balvin;1;latin;53;53;53.0;2017
+290;J-Kwon;1;hip hop;59;59;59.0;2001
+291;J. Cole;1;hip hop;80;80;80.0;2019
+292;J. Holiday;2;other;64;58;61.0;2007
+293;JAY-Z;12;hip hop;82;53;67.75;1999
+294;JUVENILE;1;hip hop;64;64;64.0;2003
+295;JVKE;1;modern pop;83;83;83.0;2023
+296;Ja Rule;3;hip hop;73;61;66.0;2001
+297;Jack White;1;rock;56;56;56.0;2007
+298;Jack Ü;1;pop;74;74;74.0;2015
+299;Jagged Edge;3;hip hop;67;55;59.333333333333336;2000
+300;Jaheim;1;pop;55;55;55.0;2002
+301;Jamelia;1;pop;69;69;69.0;2003
+302;James Arthur;1;pop;75;75;75.0;2013
+303;James Blunt;3;pop;75;67;70.0;2005
+304;James Morrison;4;pop;70;64;67.0;2006
+305;Jamie Foxx;1;hip hop;65;65;65.0;2008
+306;Jamiroquai;1;pop;65;65;65.0;2001
+307;Janet Jackson;1;pop;65;65;65.0;2001
+308;Jason Aldean;2;country;53;50;51.5;2009
+309;Jason Derulo;13;hip hop;75;50;63.38461538461539;2010
+310;Jax Jones;3;other;60;58;58.666666666666664;2017
+311;Jay Rock;1;hip hop;71;71;71.0;2018
+312;Jeezy;2;hip hop;69;55;62.0;2005
+313;Jennifer Hudson;1;other;60;60;60.0;2008
+314;Jennifer Lopez;8;hip hop;79;53;64.625;2001
+315;Jeremih;4;hip hop;77;67;72.5;2009
+316;Jessica Simpson;1;pop;57;57;57.0;2003
+317;Jessie J;4;hip hop;77;57;70.25;2011
+318;Jibbs;1;hip hop;56;56;56.0;2006
+319;Jimin;1;k-pop;93;93;93.0;2023
+320;Jimmy Eat World;1;pop;78;78;78.0;2001
+321;Joe;2;pop;65;57;61.0;2000
+322;Joel Adams;1;R&B;71;71;71.0;2015
+323;Joel Corry;1;pop;63;63;63.0;2019
+324;John Legend;2;pop;84;55;69.5;2008
+325;John Newman;1;other;74;74;74.0;2013
+326;Jon Bellion;1;hip hop;70;70;70.0;2016
+327;Jonas Blue;3;pop;70;51;62.666666666666664;2015
+328;Jonas Brothers;3;pop;79;68;72.66666666666667;2008
+329;Jordin Sparks;3;pop;57;54;55.666666666666664;2007
+330;Juanes;1;pop;70;70;70.0;2004
+331;Juice WRLD;2;hip hop;84;53;68.5;2018
+332;Jung Kook;1;k-pop;90;90;90.0;2023
+333;Junior Senior;1;pop;67;67;67.0;2002
+334;Just Jack;1;Dance/Electronic;52;52;52.0;2006
+335;Justin Bieber;8;pop;81;63;74.0;2009
+336;Justin Timberlake;12;pop;78;57;70.58333333333333;2002
+337;K'NAAN;1;other;57;57;57.0;2009
+338;KALEO;1;rock;63;63;63.0;2015
+339;KAROL G;1;other;88;88;88.0;2023
+340;KT Tunstall;2;other;71;64;67.5;2005
+341;Kaiser Chiefs;3;rock;67;58;62.666666666666664;2005
+342;Kandi;1;pop;55;55;55.0;2000
+343;Kanye West;13;hip hop;82;52;70.0;2004
+344;Kardinal Offishall;1;hip hop;75;75;75.0;2008
+345;Kasabian;1;rock;64;64;64.0;2009
+346;Katie Melua;2;pop;60;55;57.5;2003
+347;Katy Perry;14;pop;74;60;70.28571428571429;2008
+348;Keane;1;pop;59;59;59.0;2006
+349;Kehlani;1;hip hop;74;74;74.0;2019
+350;Kelis;4;other;68;50;59.5;2003
+351;Kelly Clarkson;6;pop;74;56;66.5;2004
+352;Kelly Rowland;3;hip hop;65;54;59.333333333333336;2002
+353;Kendrick Lamar;4;hip hop;80;63;72.5;2012
+354;Kent Jones;1;hip hop;63;63;63.0;2016
+355;Keri Hilson;2;pop;67;57;62.0;2009
+356;Kesha;7;pop;80;61;70.85714285714286;2010
+357;Kevin Gates;1;hip hop;69;69;69.0;2016
+358;Kevin Lyttle;1;hip hop;67;67;67.0;2004
+359;Kevin Rudolf;1;hip hop;66;66;66.0;2008
+360;Keyshia Cole;3;hip hop;72;58;63.333333333333336;2005
+361;Khalid;2;pop;73;70;71.5;2018
+362;Khia;1;pop;59;59;59.0;2015
+363;Kid Cudi;1;hip hop;72;72;72.0;2009
+364;Kid Ink;1;hip hop;68;68;68.0;2014
+365;Kiesza;1;pop;64;64;64.0;2014
+366;Kiiara;1;other;55;55;55.0;2015
+367;Kings of Leon;2;rock;80;80;80.0;2008
+368;Klangkarussell;1;pop;68;68;68.0;2014
+369;Klaxons;1;rock;65;65;65.0;2007
+370;Klingande;1;pop;50;50;50.0;2013
+371;Kodak Black;2;hip hop;77;51;64.0;2017
+372;Kris Allen;1;pop;51;51;51.0;2009
+373;Kygo;3;pop;76;74;75.0;2016
+374;Kylie Minogue;5;pop;73;55;60.0;2000
+375;LL Cool J;1;hip hop;56;56;56.0;2004
+376;LMC;1;Dance/Electronic;59;59;59.0;2004
+377;LMFAO;3;other;73;67;69.0;2011
+378;La Roux;2;pop;71;59;65.0;2009
+379;Labrinth;1;pop;62;62;62.0;2012
+380;Lady A;2;pop;73;63;68.0;2010
+381;Lady Gaga;11;pop;82;67;73.54545454545455;2008
+382;Lana Del Rey;5;pop;80;53;67.6;2012
+383;Las Ketchup;1;other;66;66;66.0;2002
+384;Lasgo;1;pop;65;65;65.0;2001
+385;Lauv;1;pop;81;81;81.0;2018
+386;LeAnn Rimes;2;pop;65;61;63.0;2001
+387;Lemaitre;1;pop;59;59;59.0;2017
+388;Lenny Kravitz;1;pop;68;68;68.0;2000
+389;Leona Lewis;4;pop;75;57;65.25;2007
+390;Lewis Capaldi;1;pop;84;84;84.0;2019
+391;Liam Payne;1;pop;62;62;62.0;2018
+392;Lifehouse;1;pop;61;61;61.0;2000
+393;Lil Baby;1;hip hop;79;79;79.0;2018
+394;Lil Dicky;1;hip hop;70;70;70.0;2018
+395;Lil Jon;1;hip hop;67;67;67.0;2006
+396;Lil Jon & The East Side Boyz;1;hip hop;66;66;66.0;2004
+397;Lil Nas X;3;hip hop;79;71;75.33333333333333;2019
+398;Lil Peep;1;hip hop;77;77;77.0;2017
+399;Lil Pump;1;hip hop;64;64;64.0;2017
+400;Lil Tecca;1;hip hop;78;78;78.0;2019
+401;Lil Uzi Vert;1;hip hop;81;81;81.0;2017
+402;Lil Wayne;6;hip hop;75;58;67.83333333333333;2008
+403;Lilly Wood and The Prick;1;pop;66;66;66.0;2014
+404;Lily Allen;3;pop;68;53;58.333333333333336;2006
+405;Limp Bizkit;3;other;73;70;71.66666666666667;2000
+406;Linkin Park;9;rock;83;68;75.33333333333333;2000
+407;Lloyd;3;hip hop;70;59;63.666666666666664;2004
+408;Lloyd Banks;1;hip hop;61;61;61.0;2004
+409;Logic;1;hip hop;69;69;69.0;2018
+410;Lorde;2;pop;77;76;76.5;2013
+411;Ludacris;8;hip hop;68;51;59.25;2000
+412;Luis Fonsi;1;pop;62;62;62.0;2017
+413;Lumidee;1;pop;61;61;61.0;2003
+414;Lunay;1;pop;70;70;70.0;2019
+415;Lupe Fiasco;2;hip hop;70;64;67.0;2007
+416;Lykke Li;1;pop;51;51;51.0;2011
+417;M.O;1;pop;54;54;54.0;2018
+418;M.O.P.;1;hip hop;54;54;54.0;2000
+419;M83;1;other;76;76;76.0;2011
+420;MAGIC!;1;other;80;80;80.0;2014
+421;MARINA;2;pop;78;50;64.0;2012
+422;MEDUZA;1;pop;75;75;75.0;2019
+423;MGMT;2;rock;81;77;79.0;2007
+424;MIKA;2;pop;69;57;63.0;2006
+425;MK;1;pop;65;65;65.0;2017
+426;MKTO;1;hip hop;82;82;82.0;2012
+427;Mabel;1;pop;77;77;77.0;2019
+428;Mac Miller;1;hip hop;61;61;61.0;2011
+429;Machine Gun Kelly;1;hip hop;71;71;71.0;2017
+430;Macklemore;1;hip hop;74;74;74.0;2017
+431;Macklemore & Ryan Lewis;1;hip hop;81;81;81.0;2012
+432;Madcon;1;hip hop;70;70;70.0;2007
+433;Madison Avenue;1;Dance/Electronic;56;56;56.0;1999
+434;Madonna;8;pop;74;53;60.625;2000
+435;Maggie Lindemann;1;pop;61;61;61.0;2017
+436;Major Lazer;1;other;73;73;73.0;2015
+437;Maluma;1;latin;69;69;69.0;2018
+438;Manic Street Preachers;1;pop;53;53;53.0;2007
+439;Manuel Turizo;1;other;85;85;85.0;2023
+440;Marc Anthony;1;pop;56;56;56.0;1999
+441;Mariah Carey;3;pop;69;59;64.66666666666667;1999
+442;Marilyn Manson;1;rock;60;60;60.0;2003
+443;Mario;2;pop;72;51;61.5;2004
+444;Mario Winans;1;pop;66;66;66.0;2016
+445;Mark Ronson;2;pop;82;79;80.5;2015
+446;Maroon 5;10;pop;82;62;72.5;2002
+447;Marshmello;6;pop;82;71;75.83333333333333;2016
+448;Martin Garrix;2;pop;77;76;76.5;2016
+449;Mary J. Blige;5;pop;76;61;66.8;2001
+450;Mary Mary;1;R&B;64;64;64.0;2000
+451;Matchbox Twenty;2;pop;63;54;58.5;2000
+452;Meek Mill;2;hip hop;78;68;73.0;2015
+453;Megan Thee Stallion;1;hip hop;69;69;69.0;2019
+454;Meghan Trainor;3;pop;72;69;70.33333333333333;2015
+455;Melanie C;2;pop;61;54;57.5;1999
+456;Metro Boomin;1;rap;91;91;91.0;2023
+457;Metro Station;1;pop;67;67;67.0;2007
+458;MiMS;1;hip hop;59;59;59.0;2007
+459;Michael Jackson;1;pop;64;64;64.0;2001
+460;Michelle Branch;1;pop;60;60;60.0;2001
+461;Migos;6;hip hop;75;64;70.5;2017
+462;Miguel;1;pop;78;78;78.0;2010
+463;Mike Perry;1;pop;70;70;70.0;2016
+464;Mike Posner;2;other;77;75;76.0;2010
+465;Miley Cyrus;4;pop;94;77;82.0;2009
+466;Milky Chance;1;other;73;73;73.0;2014
+467;Mis-Teeq;1;pop;59;59;59.0;2004
+468;Missy Elliott;6;hip hop;70;57;64.83333333333333;2001
+469;Modjo;1;Dance/Electronic;77;77;77.0;2001
+470;Moloko;1;pop;54;54;54.0;2000
+471;Monica;1;pop;64;64;64.0;2003
+472;Montell Jordan;1;hip hop;59;59;59.0;1999
+473;Morgan Wallen;1;country;84;84;84.0;2023
+474;Mumford & Sons;1;other;68;68;68.0;2009
+475;Muse;2;rock;75;75;75.0;2006
+476;Musiq Soulchild;1;pop;58;58;58.0;2002
+477;Mustard;1;hip hop;75;75;75.0;2019
+478;My Chemical Romance;2;rock;80;76;78.0;2006
+479;Myke Towers;1;other;93;93;93.0;2023
+480;Mystikal;1;hip hop;57;57;57.0;2000
+481;MØ;1;pop;66;66;66.0;2016
+482;Mýa;1;pop;59;59;59.0;2000
+483;N.E.R.D;1;hip hop;57;57;57.0;2004
+484;N.O.R.E.;1;hip hop;58;58;58.0;2002
+485;NF;1;hip hop;79;79;79.0;2017
+486;NSG;1;other;57;57;57.0;2020
+487;Nas;1;hip hop;58;58;58.0;2002
+488;Natalie Imbruglia;1;pop;52;52;52.0;2005
+489;Natalie La Rose;1;other;66;66;66.0;2014
+490;Natanael Cano;1;other;81;81;81.0;2023
+491;Natasha Bedingfield;1;pop;62;62;62.0;2008
+492;Natti Natasha;1;pop;74;74;74.0;2017
+493;Naughty Boy;1;Dance/Electronic;58;58;58.0;2013
+494;Ne-Yo;8;pop;75;57;67.75;2006
+495;Nelly;11;hip hop;77;52;65.0909090909091;2000
+496;Nelly Furtado;3;other;82;79;80.66666666666667;2006
+497;Neon Trees;1;pop;64;64;64.0;2010
+498;NewJeans;1;pop;87;87;87.0;2023
+499;Next;1;hip hop;52;52;52.0;2004
+500;Nick Jonas;1;pop;69;69;69.0;2016
+501;Nickelback;9;rock;78;62;67.77777777777777;2001
+502;Nicki Minaj;4;hip hop;75;53;64.5;2012
+503;Nicky Jam;2;latin;74;51;62.5;2017
+504;Nico & Vinz;1;hip hop;76;76;76.0;2014
+505;Nicole Scherzinger;1;pop;62;62;62.0;2011
+506;Nina Sky;1;pop;67;67;67.0;2004
+507;Nio Garcia;1;latin;76;76;76.0;2018
+508;No Doubt;2;pop;60;60;60.0;2003
+509;Normani;1;pop;71;71;71.0;2019
+510;O-Zone;1;pop;56;56;56.0;2004
+511;O.T. Genasis;1;hip hop;61;61;61.0;2014
+512;OPM;1;rock;56;56;56.0;2000
+513;Of Monsters and Men;1;other;79;79;79.0;2012
+514;Offset;2;hip hop;80;68;74.0;2017
+515;Oliver Heldens;1;pop;67;67;67.0;2014
+516;Olivia Rodrigo;1;pop;95;95;95.0;2023
+517;Olly Murs;2;pop;61;59;60.0;2011
+518;Omarion;2;hip hop;57;55;56.0;2006
+519;One Direction;8;pop;83;66;77.875;2012
+520;OneRepublic;9;pop;92;59;68.55555555555556;2007
+521;Outkast;5;hip hop;82;51;69.0;2000
+522;Owl City;2;pop;78;77;77.5;2009
+523;Ozuna;2;latin;87;72;79.5;2018
+524;P!nk;11;pop;76;52;67.0909090909091;2000
+525;P.O.D.;1;rock;69;69;69.0;2001
+526;PARTYNEXTDOOR;1;hip hop;62;62;62.0;2016
+527;PSY;1;pop;72;72;72.0;2012
+528;Paloma Faith;1;other;80;80;80.0;2014
+529;Panic! At The Disco;2;rock;80;70;75.0;2005
+530;Panjabi MC;1;other;61;61;61.0;2003
+531;Papa Roach;1;rock;60;60;60.0;2004
+532;Paramore;2;pop;79;72;75.5;2007
+533;Passenger;1;pop;73;73;73.0;2012
+534;Paulo Londra;1;hip hop;72;72;72.0;2019
+535;Pedro Capó;1;pop;74;74;74.0;2018
+536;Pendulum;1;Dance/Electronic;57;57;57.0;2008
+537;Peso Pluma;1;sad sierreño;82;82;82.0;2023
+538;Petey Pablo;1;hip hop;56;56;56.0;2003
+539;Petit Biscuit;1;Dance/Electronic;71;71;71.0;2015
+540;Pharrell Williams;2;hip hop;79;67;73.0;2003
+541;Philip George;1;pop;65;65;65.0;2014
+542;Pia Mia;1;pop;72;72;72.0;2015
+543;PinkPantheress;1;pop;84;84;84.0;2023
+544;Pitbull;9;other;81;59;72.11111111111111;2009
+545;Pixie Lott;1;pop;54;54;54.0;2009
+546;Plain White T's;1;pop;78;78;78.0;2005
+547;Plan B;1;Dance/Electronic;62;62;62.0;2010
+548;Playboi Carti;1;hip hop;77;77;77.0;2017
+549;Plies;3;hip hop;66;61;62.666666666666664;2007
+550;Polo G;1;hip hop;78;78;78.0;2019
+551;Post Malone;8;hip hop;85;77;80.5;2016
+552;Pretty Ricky;3;hip hop;63;57;59.666666666666664;2005
+553;Puddle Of Mudd;2;rock;70;64;67.0;2001
+554;R. City;1;pop;77;77;77.0;2015
+555;RAYE;1;other;76;76;76.0;2023
+556;Rae Sremmurd;4;hip hop;75;66;71.75;2015
+557;Rag'n'Bone Man;2;R&B;76;67;71.5;2017
+558;Rascal Flatts;1;country;69;69;69.0;2006
+559;Ray J;1;hip hop;62;62;62.0;2005
+560;Razorlight;2;pop;67;59;63.0;2006
+561;Red Hot Chili Peppers;6;rock;80;65;75.16666666666667;1999
+562;Regard;1;pop;81;81;81.0;2019
+563;Rema;1;other;90;90;90.0;2023
+564;Rich Boy;1;hip hop;57;57;57.0;2007
+565;Rich The Kid;1;hip hop;72;72;72.0;2018
+566;Ricky Martin;2;pop;60;52;56.0;2000
+567;Rihanna;25;hip hop;81;55;72.12;2005
+568;Rita Ora;2;other;65;63;64.0;2014
+569;Rixton;1;pop;77;77;77.0;2014
+570;Rizzle Kicks;1;hip hop;59;59;59.0;2011
+571;Rob $tone;2;hip hop;76;76;76.0;2016
+572;Rob Thomas;1;pop;56;56;56.0;2005
+573;Robbie Williams;4;pop;68;58;64.5;2000
+574;Robin Schulz;1;pop;76;76;76.0;2015
+575;Robin Thicke;1;pop;55;55;55.0;2013
+576;Roger Sanchez;1;Dance/Electronic;50;50;50.0;2000
+577;Ronan Keating;3;pop;60;58;59.0;2000
+578;Room 5;1;Dance/Electronic;57;57;57.0;2003
+579;Route 94;1;pop;72;72;72.0;2014
+580;Rudimental;2;pop;66;64;65.0;2013
+581;Ruff Endz;1;R&B;52;52;52.0;2000
+582;Rui Da Silva;1;Dance/Electronic;54;54;54.0;2001
+583;Russ Millions;1;pop;69;69;69.0;2019
+584;Ryan Cabrera;1;pop;62;62;62.0;2004
+585;S Club 7;2;pop;63;60;61.5;2001
+586;SAYGRACE;2;pop;69;55;62.0;2015
+587;SZA;2;pop;93;86;89.5;2023
+588;Sam Feldt;1;pop;69;69;69.0;2019
+589;Sam Smith;8;pop;84;62;74.75;2014
+590;Sam Sparro;1;pop;53;53;53.0;2008
+591;Sammie;1;hip hop;55;55;55.0;2000
+592;Sandi Thom;1;world/traditional;61;61;61.0;2006
+593;Santana;2;rock;66;57;61.5;1999
+594;Savage Garden;1;pop;54;54;54.0;1999
+595;Saving Abel;1;rock;69;69;69.0;2008
+596;Saweetie;1;hip hop;71;71;71.0;2019
+597;ScHoolboy Q;1;hip hop;61;61;61.0;2012
+598;Scissor Sisters;1;pop;63;63;63.0;2006
+599;Scouting For Girls;1;pop;52;52;52.0;2017
+600;Sean Kingston;4;hip hop;78;65;72.0;2007
+601;Sean Paul;9;hip hop;84;58;67.88888888888889;2002
+602;Sebastian Ingrosso;1;pop;68;68;68.0;2013
+603;Sech;1;latin;71;71;71.0;2019
+604;Seether;1;rock;73;73;73.0;2007
+605;Selena Gomez;8;pop;78;58;67.5;2013
+606;Selena Gomez & The Scene;3;pop;79;63;72.66666666666667;2009
+607;September;2;pop;65;65;65.0;2007
+608;Shaggy;1;hip hop;76;76;76.0;2000
+609;Shakira;5;pop;82;64;72.0;2001
+610;Shawn Mendes;4;pop;82;73;77.75;2015
+611;Sheck Wes;1;hip hop;77;77;77.0;2018
+612;Shinedown;1;rock;67;67;67.0;2008
+613;Shop Boyz;1;hip hop;61;61;61.0;2007
+614;Sia;4;pop;78;67;70.75;2014
+615;Sigala;2;pop;66;64;65.0;2018
+616;Sigma;1;pop;62;62;62.0;2014
+617;Simply Red;1;other;58;58;58.0;2008
+618;Sisqo;2;hip hop;69;60;64.5;1999
+619;Skillet;1;rock;75;75;75.0;2009
+620;Skrillex;1;other;70;70;70.0;2011
+621;Snoop Dogg;5;hip hop;77;54;64.4;2004
+622;So Solid Crew;1;Dance/Electronic;51;51;51.0;2001
+623;Sofía Reyes;1;pop;65;65;65.0;2018
+624;Sonique;1;pop;62;62;62.0;2000
+625;Sophie Ellis-Bextor;1;pop;62;62;62.0;2002
+626;Soulja Boy;4;hip hop;76;59;70.75;2007
+627;Special D.;1;pop;61;61;61.0;2004
+628;Spiderbait;1;rock;63;63;63.0;2004
+629;Staind;1;rock;64;64;64.0;2001
+630;Stephen Sanchez;1;other;90;90;90.0;2023
+631;Steps;1;pop;53;53;53.0;2000
+632;Stereophonics;1;pop;69;69;69.0;2005
+633;Steve Aoki;1;other;63;63;63.0;2016
+634;Sting;1;pop;62;62;62.0;1999
+635;Stormzy;1;hip hop;64;64;64.0;2019
+636;Stromae;1;pop;77;77;77.0;2010
+637;Sugababes;6;pop;66;57;60.333333333333336;2002
+638;Sunshine Anderson;1;pop;56;56;56.0;2001
+639;Swedish House Mafia;4;pop;76;54;64.5;2010
+640;Switchfoot;1;pop;61;61;61.0;2003
+641;T.I.;7;hip hop;75;63;70.42857142857143;2004
+642;T2;1;Dance/Electronic;59;59;59.0;2017
+643;Taio Cruz;3;hip hop;80;61;71.66666666666667;2010
+644;Take That;4;pop;64;57;60.75;2006
+645;Tame Impala;1;other;83;83;83.0;2015
+646;Taylor Swift;19;pop;99;54;73.36842105263158;2008
+647;Terror Squad;1;hip hop;67;67;67.0;2004
+648;The All-American Rejects;2;pop;65;65;65.0;2005
+649;The Band Perry;2;country;64;64;64.0;2010
+650;The Calling;1;pop;72;72;72.0;2001
+651;The Chainsmokers;7;pop;83;69;76.14285714285714;2015
+652;The Chemical Brothers;1;Dance/Electronic;63;63;63.0;2005
+653;The Corrs;1;pop;68;68;68.0;2000
+654;The Fratellis;1;rock;68;68;68.0;2006
+655;The Fray;3;pop;79;67;73.0;2005
+656;The Game;3;hip hop;77;60;70.33333333333333;2005
+657;The Goo Goo Dolls;1;pop;56;56;56.0;2002
+658;The Kooks;1;rock;73;73;73.0;2006
+659;The Neighbourhood;3;pop;93;85;89.0;2013
+660;The Notorious B.I.G.;1;hip hop;68;68;68.0;2005
+661;The Offspring;1;rock;78;78;78.0;2008
+662;The Prodigy;1;other;57;57;57.0;2009
+663;The Pussycat Dolls;8;pop;72;57;66.375;2005
+664;The Raconteurs;1;rock;56;56;56.0;2006
+665;The Rasmus;1;other;68;68;68.0;2003
+666;The Red Jumpsuit Apparatus;1;pop;74;74;74.0;2006
+667;The Roots;1;hip hop;63;63;63.0;2002
+668;The Saturdays;2;pop;61;61;61.0;2010
+669;The Script;2;pop;78;74;76.0;2012
+670;The Shapeshifters;1;Dance/Electronic;65;65;65.0;2004
+671;The Streets;1;hip hop;58;58;58.0;2004
+672;The Strokes;1;rock;74;74;74.0;2003
+673;The Strumbellas;1;other;71;71;71.0;2016
+674;The Supermen Lovers;1;Dance/Electronic;61;61;61.0;2001
+675;The Ting Tings;2;pop;55;51;53.0;2007
+676;The Vamps;2;pop;73;61;67.0;2017
+677;The Veronicas;1;pop;58;58;58.0;2005
+678;The Wanted;2;pop;77;69;73.0;2011
+679;The Weeknd;10;pop;95;69;82.4;2014
+680;The-Dream;2;hip hop;62;62;62.0;2007
+681;Thirty Seconds To Mars;1;rock;74;74;74.0;2005
+682;Three Days Grace;1;rock;72;72;72.0;2003
+683;Timbaland;5;hip hop;80;68;72.2;2007
+684;Tinashe;1;other;71;71;71.0;2014
+685;Tinchy Stryder;1;pop;59;59;59.0;2009
+686;Tinie Tempah;3;other;62;53;57.333333333333336;2010
+687;Tiësto;1;pop;72;72;72.0;2018
+688;Toby Keith;1;country;67;67;67.0;2005
+689;Tom Jones;1;rock;65;65;65.0;1999
+690;Tom Odell;2;pop;88;72;80.0;2013
+691;Tom Walker;1;pop;70;70;70.0;2017
+692;Tones And I;1;pop;78;78;78.0;2019
+693;Toni Braxton;1;pop;66;66;66.0;2000
+694;Tory Lanez;1;hip hop;73;73;73.0;2016
+695;Tove Lo;3;pop;74;66;68.66666666666667;2014
+696;Train;2;pop;77;77;77.0;2001
+697;Trapt;1;rock;72;72;72.0;2002
+698;Travie McCoy;1;hip hop;72;72;72.0;2010
+699;Travis;1;pop;68;68;68.0;2001
+700;Travis Scott;4;hip hop;83;73;79.5;2015
+701;Trey Songz;4;hip hop;62;54;60.0;2007
+702;Trick Daddy;1;hip hop;59;59;59.0;2001
+703;Trillville;1;hip hop;50;50;50.0;2004
+704;Truth Hurts;1;pop;58;58;58.0;2002
+705;Tweet;1;hip hop;64;64;64.0;2002
+706;Twenty One Pilots;3;rock;83;80;81.0;2015
+707;Twista;3;hip hop;72;56;64.66666666666667;2004
+708;Tyga;3;hip hop;73;58;64.0;2012
+709;Tyler, The Creator;2;hip hop;92;80;86.0;2019
+710;Tyrese;1;hip hop;60;60;60.0;2002
+711;U2;2;other;64;56;60.0;2004
+712;Ultrabeat;1;pop;59;59;59.0;2003
+713;Usher;10;hip hop;81;59;69.3;2001
+714;Vance Joy;1;pop;80;80;80.0;2014
+715;Vanessa Carlton;1;Folk/Acoustic;75;75;75.0;2002
+716;Vengaboys;1;pop;58;58;58.0;2000
+717;WILLOW;1;other;86;86;86.0;2015
+718;Waka Flocka Flame;2;hip hop;76;58;67.0;2010
+719;Wale;1;hip hop;61;61;61.0;2013
+720;Wayne Wonder;1;R&B;63;63;63.0;2003
+721;Westlife;2;pop;68;57;62.5;2000
+722;Wheatus;1;other;71;71;71.0;1999
+723;Wiley;2;hip hop;64;59;61.5;2008
+724;Will Young;2;pop;55;55;55.0;2003
+725;Wiz Khalifa;4;hip hop;81;62;70.25;2011
+726;Wyclef Jean;1;other;56;56;56.0;2007
+727;X Ambassadors;2;other;75;75;75.0;2015
+728;XXXTENTACION;4;hip hop;83;79;81.5;2017
+729;YG;1;hip hop;68;68;68.0;2018
+730;Yandel;1;other;83;83;83.0;2023
+731;Years & Years;1;pop;55;55;55.0;2015
+732;Ying Yang Twins;2;hip hop;61;57;59.0;2003
+733;Ylvis;1;hip hop;63;63;63.0;2013
+734;Yng Lvcas;1;other;89;89;89.0;2023
+735;Yo Gotti;1;hip hop;67;67;67.0;2017
+736;Young Money;1;hip hop;71;71;71.0;2009
+737;Young T & Bugsey;1;hip hop;61;61;61.0;2019
+738;Young Thug;1;hip hop;69;69;69.0;2019
+739;Youngbloodz;1;hip hop;54;54;54.0;2003
+740;Yung Joc;1;hip hop;66;66;66.0;2006
+741;ZAYN;2;pop;77;59;68.0;2016
+742;Zara Larsson;3;pop;73;57;65.66666666666667;2017
+743;Zay Hilfigerrr;1;other;57;57;57.0;2016
+744;Zedd;2;other;80;63;71.5;2014
+745;alt-J;1;rock;71;71;71.0;2012
+746;benny blanco;1;hip hop;75;75;75.0;2018
+747;blink-182;1;pop;79;79;79.0;1999
+748;d4vd;2;pop;91;90;90.5;2023
+749;fun.;1;pop;76;76;76.0;2012
+750;girl in red;1;pop;82;82;82.0;2018
+751;iann dior;2;hip hop;72;69;70.5;2019
+752;iio;1;Dance/Electronic;54;54;54.0;2006
+753;will.i.am;3;hip hop;78;62;69.33333333333333;2013
